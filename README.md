@@ -1,5 +1,7 @@
 <img src="taglistify.png" width="135px">
 
+---
+
 # Taglistify
 Taglistify is a Windows Tool that returns a desired amount of randomly selected Hashtags from self-defined Hastaglists.
 
