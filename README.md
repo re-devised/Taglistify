@@ -1,9 +1,7 @@
-<img src="taglistify.png" width="135px">
+<h1 align="center"><img src="taglistify.png" height="60px"></h1>
+<p align="center"><b>Taglistify</b> is a Windows Tool that returns a desired amount of randomly selected Hashtags from self-defined Hastaglists.</p>
 
 ---
-
-# Taglistify
-Taglistify is a Windows Tool that returns a desired amount of randomly selected Hashtags from self-defined Hastaglists.
 
 ## Social Media may like you more...
 
