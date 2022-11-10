@@ -5,7 +5,7 @@
 
 ## Social Media may like you more...
 
-Hashtaglists make life easier for social media users since one doesn't need to search new ones for every post.
+Hashtaglists make life easier for social media users since one doesn't need to search new hashtags for every post.
 
 The problem is that social media algorithms often downgrade posts with hashtags that one has used multiple times in the past.
 
